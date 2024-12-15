@@ -1,5 +1,5 @@
 # Detona Ralph
-Este é um projeto de jogo baseado no filme "Detona Ralph". O objetivo do jogo é clicar nos quadrados que contêm o inimigo para ganhar pontos antes que o tempo acabe.
+Este é um projeto de jogo baseado no filme "Detona Ralph". O objetivo do jogo é clicar nos quadrados que contêm o inimigo para ganhar pontos antes que o tempo acabe. Foi desenvolvido como desafio de projeto durante um bootcamp da Digital Innovation One (DIO).
 
 ![Interface do Jogo](image.png)
 
