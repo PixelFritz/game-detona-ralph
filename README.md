@@ -18,6 +18,9 @@ src/
     styles/
         main.css
         reset.css
+image.png
+index.html
+README.md
 ```
 
 # Descrição dos Arquivos
